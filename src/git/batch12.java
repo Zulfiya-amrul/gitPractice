@@ -8,7 +8,8 @@ public class batch12 {
 		
 		System.out.println("we are here");
 
-		
+		System.out.println("can we end this class already plz");
+
 
 	}
 
