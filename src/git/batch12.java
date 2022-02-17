@@ -6,7 +6,8 @@ public class batch12 {
 		
 		System.out.println("we are here");
 		
-		
+		System.out.println("we are here");
+
 		
 
 	}
